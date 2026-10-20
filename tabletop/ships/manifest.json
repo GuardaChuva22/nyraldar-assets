@@ -1,0 +1,357 @@
+{
+  "versao": 1,
+  "navios": [
+    {
+      "id": "bergantim",
+      "nome": "Bergantim",
+      "comprimento_m": 26.3,
+      "boca_m": 7.9,
+      "andares": [
+        0,
+        -1,
+        -2
+      ],
+      "mastros": [
+        1,
+        2,
+        0
+      ]
+    },
+    {
+      "id": "bote",
+      "nome": "Bote",
+      "comprimento_m": 6,
+      "boca_m": 2.2,
+      "andares": [
+        0
+      ],
+      "mastros": []
+    },
+    {
+      "id": "brigue",
+      "nome": "Brigue",
+      "comprimento_m": 27.7,
+      "boca_m": 8.3,
+      "andares": [
+        0,
+        -1,
+        -2
+      ],
+      "mastros": [
+        1,
+        2,
+        0
+      ]
+    },
+    {
+      "id": "canoa",
+      "nome": "Canoa",
+      "comprimento_m": 7,
+      "boca_m": 1.87,
+      "andares": [
+        0
+      ],
+      "mastros": []
+    },
+    {
+      "id": "caravela",
+      "nome": "Caravela",
+      "comprimento_m": 20.9,
+      "boca_m": 7.8,
+      "andares": [
+        1,
+        0,
+        -1,
+        -2
+      ],
+      "mastros": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "id": "caravelao",
+      "nome": "Caravelão",
+      "comprimento_m": 27.3,
+      "boca_m": 10.2,
+      "andares": [
+        1,
+        0,
+        -1,
+        -2
+      ],
+      "mastros": [
+        1,
+        2,
+        3,
+        4,
+        0
+      ]
+    },
+    {
+      "id": "chalupa",
+      "nome": "Chalupa",
+      "comprimento_m": 15.1,
+      "boca_m": 4.8,
+      "andares": [
+        0,
+        -1
+      ],
+      "mastros": [
+        1,
+        0
+      ]
+    },
+    {
+      "id": "corveta",
+      "nome": "Corveta",
+      "comprimento_m": 27.3,
+      "boca_m": 7.9,
+      "andares": [
+        1,
+        0,
+        -1
+      ],
+      "mastros": [
+        1,
+        2,
+        3,
+        0
+      ]
+    },
+    {
+      "id": "couracado",
+      "nome": "Couraçado",
+      "comprimento_m": 47.1,
+      "boca_m": 14.2,
+      "andares": [
+        0,
+        -1,
+        -2,
+        -3,
+        -4
+      ],
+      "mastros": [
+        1,
+        2,
+        3,
+        0
+      ]
+    },
+    {
+      "id": "escaler",
+      "nome": "Escaler",
+      "comprimento_m": 9,
+      "boca_m": 2.4,
+      "andares": [
+        0
+      ],
+      "mastros": [
+        1
+      ]
+    },
+    {
+      "id": "fragata",
+      "nome": "Fragata",
+      "comprimento_m": 33.9,
+      "boca_m": 9.8,
+      "andares": [
+        1,
+        0,
+        -1,
+        -2
+      ],
+      "mastros": [
+        1,
+        2,
+        3,
+        0
+      ]
+    },
+    {
+      "id": "gale",
+      "nome": "Galé",
+      "comprimento_m": 40,
+      "boca_m": 5.5,
+      "andares": [
+        0,
+        -1,
+        -2
+      ],
+      "mastros": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": "galeao",
+      "nome": "Galeão",
+      "comprimento_m": 39.1,
+      "boca_m": 11.3,
+      "andares": [
+        1,
+        0,
+        -1,
+        -2,
+        -3
+      ],
+      "mastros": [
+        1,
+        2,
+        3,
+        4,
+        0
+      ]
+    },
+    {
+      "id": "jangada",
+      "nome": "Jangada",
+      "comprimento_m": 6,
+      "boca_m": 4.31,
+      "andares": [
+        0
+      ],
+      "mastros": [
+        1
+      ]
+    },
+    {
+      "id": "man_o_war",
+      "nome": "Man'o'war",
+      "comprimento_m": 45.6,
+      "boca_m": 13.2,
+      "andares": [
+        1,
+        0,
+        -1,
+        -2,
+        -3,
+        -4
+      ],
+      "mastros": [
+        1,
+        2,
+        3,
+        0
+      ]
+    },
+    {
+      "id": "nau",
+      "nome": "Nau",
+      "comprimento_m": 36.5,
+      "boca_m": 10.6,
+      "andares": [
+        1,
+        0,
+        -1,
+        -2,
+        -3
+      ],
+      "mastros": [
+        1,
+        2,
+        3,
+        0
+      ]
+    },
+    {
+      "id": "navarca",
+      "nome": "Navarca",
+      "comprimento_m": 41.7,
+      "boca_m": 12.1,
+      "andares": [
+        1,
+        0,
+        -1,
+        -2,
+        -3
+      ],
+      "mastros": [
+        1,
+        2,
+        3,
+        4,
+        0
+      ]
+    },
+    {
+      "id": "navarca_de_exploracao",
+      "nome": "Navarca de Exploração",
+      "comprimento_m": 20,
+      "boca_m": 7.5,
+      "andares": [
+        1,
+        0,
+        -1,
+        -2
+      ],
+      "mastros": [
+        1,
+        2,
+        3,
+        0
+      ]
+    },
+    {
+      "id": "navio_de_exploracao",
+      "nome": "Navio de Exploração",
+      "comprimento_m": 23.7,
+      "boca_m": 8.8,
+      "andares": [
+        1,
+        0,
+        -1,
+        -2
+      ],
+      "mastros": [
+        1,
+        2,
+        3,
+        0
+      ]
+    },
+    {
+      "id": "navio_de_patrulha",
+      "nome": "Navio de Patrulha",
+      "comprimento_m": 18.8,
+      "boca_m": 6,
+      "andares": [
+        0,
+        -1
+      ],
+      "mastros": [
+        1,
+        2,
+        0
+      ]
+    },
+    {
+      "id": "navio_mercante",
+      "nome": "Navio Mercante",
+      "comprimento_m": 18.1,
+      "boca_m": 5.8,
+      "andares": [
+        0,
+        -1
+      ],
+      "mastros": [
+        1,
+        2,
+        0
+      ]
+    },
+    {
+      "id": "pirogue",
+      "nome": "Pirogue",
+      "comprimento_m": 12,
+      "boca_m": 2.38,
+      "andares": [
+        0
+      ],
+      "mastros": [
+        1
+      ]
+    }
+  ]
+}
