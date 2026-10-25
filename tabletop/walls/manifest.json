@@ -1,0 +1,1666 @@
+{
+  "schemaVersion": 1,
+  "pxPerUnit": 160,
+  "skins": [
+    {
+      "id": "pedra",
+      "label": "Pedra",
+      "category": "Pedra",
+      "pack": "Core 2.0",
+      "source": {
+        "tiles": [
+          "11419562",
+          "1781907"
+        ],
+        "end": "9481683",
+        "pillar": "576923"
+      },
+      "tiles": [
+        {
+          "file": "trecho-1.webp",
+          "width": 650,
+          "height": 100,
+          "pad": 2
+        },
+        {
+          "file": "trecho-2.webp",
+          "width": 626,
+          "height": 100,
+          "pad": 2
+        }
+      ],
+      "end": {
+        "file": "ponta.webp",
+        "width": 57,
+        "height": 95
+      },
+      "pillar": {
+        "file": "pilar.webp",
+        "width": 105,
+        "height": 112
+      },
+      "thumbnail": "miniatura.webp"
+    },
+    {
+      "id": "pedra-nevada",
+      "label": "Pedra com neve",
+      "category": "Pedra",
+      "pack": "Winter",
+      "source": {
+        "tiles": [
+          "1782130"
+        ],
+        "end": "10317953",
+        "pillar": "633688"
+      },
+      "tiles": [
+        {
+          "file": "trecho-1.webp",
+          "width": 621,
+          "height": 100,
+          "pad": 2
+        }
+      ],
+      "end": {
+        "file": "ponta.webp",
+        "width": 19,
+        "height": 93
+      },
+      "pillar": {
+        "file": "pilar.webp",
+        "width": 105,
+        "height": 113
+      },
+      "thumbnail": "miniatura.webp"
+    },
+    {
+      "id": "pedra-arruinada",
+      "label": "Pedra em ruínas",
+      "category": "Pedra",
+      "pack": "Core",
+      "source": {
+        "tiles": [
+          "3243118"
+        ],
+        "end": "9481678",
+        "pillar": "576909"
+      },
+      "tiles": [
+        {
+          "file": "trecho-1.webp",
+          "width": 945,
+          "height": 170,
+          "pad": 2
+        }
+      ],
+      "end": {
+        "file": "ponta.webp",
+        "width": 144,
+        "height": 180
+      },
+      "pillar": {
+        "file": "pilar.webp",
+        "width": 151,
+        "height": 171
+      },
+      "thumbnail": "miniatura.webp"
+    },
+    {
+      "id": "rocha-de-caverna",
+      "label": "Rocha de caverna",
+      "category": "Pedra",
+      "pack": "Cave",
+      "source": {
+        "tiles": [
+          "1781905"
+        ],
+        "end": "9481681",
+        "pillar": "784966"
+      },
+      "tiles": [
+        {
+          "file": "trecho-1.webp",
+          "width": 1334,
+          "height": 214,
+          "pad": 2
+        }
+      ],
+      "end": {
+        "file": "ponta.webp",
+        "width": 158,
+        "height": 210
+      },
+      "pillar": {
+        "file": "pilar.webp",
+        "width": 196,
+        "height": 227
+      },
+      "thumbnail": "miniatura.webp"
+    },
+    {
+      "id": "pedra-lavrada",
+      "label": "Pedra lavrada",
+      "category": "Pedra",
+      "pack": "Dwarves 2.0",
+      "source": {
+        "tiles": [
+          "8529685",
+          "8529791"
+        ],
+        "end": "8529681",
+        "pillar": null
+      },
+      "tiles": [
+        {
+          "file": "trecho-1.webp",
+          "width": 2177,
+          "height": 184,
+          "pad": 2
+        },
+        {
+          "file": "trecho-2.webp",
+          "width": 1712,
+          "height": 195,
+          "pad": 2
+        }
+      ],
+      "end": {
+        "file": "ponta.webp",
+        "width": 55,
+        "height": 179
+      },
+      "pillar": null,
+      "thumbnail": "miniatura.webp"
+    },
+    {
+      "id": "pedra-entalhada",
+      "label": "Pedra entalhada",
+      "category": "Pedra",
+      "pack": "Dwarves 2.0",
+      "source": {
+        "tiles": [
+          "8529780"
+        ],
+        "end": "8529781",
+        "pillar": null
+      },
+      "tiles": [
+        {
+          "file": "trecho-1.webp",
+          "width": 1653,
+          "height": 184,
+          "pad": 2
+        }
+      ],
+      "end": {
+        "file": "ponta.webp",
+        "width": 19,
+        "height": 191
+      },
+      "pillar": null,
+      "thumbnail": "miniatura.webp"
+    },
+    {
+      "id": "tijolo",
+      "label": "Tijolo",
+      "category": "Pedra",
+      "pack": "Castle",
+      "source": {
+        "tiles": [
+          "1782059"
+        ],
+        "end": null,
+        "pillar": "576865"
+      },
+      "tiles": [
+        {
+          "file": "trecho-1.webp",
+          "width": 637,
+          "height": 78,
+          "pad": 2
+        }
+      ],
+      "end": null,
+      "pillar": {
+        "file": "pilar.webp",
+        "width": 98,
+        "height": 107
+      },
+      "thumbnail": "miniatura.webp"
+    },
+    {
+      "id": "tijolo-musgoso",
+      "label": "Tijolo com musgo",
+      "category": "Pedra",
+      "pack": "Jungle",
+      "source": {
+        "tiles": [
+          "6445821"
+        ],
+        "end": "6445820",
+        "pillar": null
+      },
+      "tiles": [
+        {
+          "file": "trecho-1.webp",
+          "width": 1145,
+          "height": 169,
+          "pad": 2
+        }
+      ],
+      "end": {
+        "file": "ponta.webp",
+        "width": 44,
+        "height": 164
+      },
+      "pillar": null,
+      "thumbnail": "miniatura.webp"
+    },
+    {
+      "id": "adobe",
+      "label": "Adobe",
+      "category": "Pedra",
+      "pack": "Home",
+      "source": {
+        "tiles": [
+          "1781901"
+        ],
+        "end": "9481673",
+        "pillar": "576898"
+      },
+      "tiles": [
+        {
+          "file": "trecho-1.webp",
+          "width": 632,
+          "height": 79,
+          "pad": 2
+        }
+      ],
+      "end": {
+        "file": "ponta.webp",
+        "width": 27,
+        "height": 73
+      },
+      "pillar": {
+        "file": "pilar.webp",
+        "width": 102,
+        "height": 116
+      },
+      "thumbnail": "miniatura.webp"
+    },
+    {
+      "id": "reboco",
+      "label": "Reboco",
+      "category": "Pedra",
+      "pack": "Castle",
+      "source": {
+        "tiles": [
+          "6412369"
+        ],
+        "end": "9481675",
+        "pillar": null
+      },
+      "tiles": [
+        {
+          "file": "trecho-1.webp",
+          "width": 613,
+          "height": 80,
+          "pad": 2
+        }
+      ],
+      "end": {
+        "file": "ponta.webp",
+        "width": 27,
+        "height": 75
+      },
+      "pillar": null,
+      "thumbnail": "miniatura.webp"
+    },
+    {
+      "id": "reboco-com-trepadeira",
+      "label": "Reboco com trepadeira",
+      "category": "Pedra",
+      "pack": "Elves",
+      "source": {
+        "tiles": [
+          "1781963"
+        ],
+        "end": "9483270",
+        "pillar": "656346"
+      },
+      "tiles": [
+        {
+          "file": "trecho-1.webp",
+          "width": 595,
+          "height": 90,
+          "pad": 2
+        }
+      ],
+      "end": {
+        "file": "ponta.webp",
+        "width": 36,
+        "height": 81
+      },
+      "pillar": {
+        "file": "pilar.webp",
+        "width": 106,
+        "height": 102
+      },
+      "thumbnail": "miniatura.webp"
+    },
+    {
+      "id": "esgoto",
+      "label": "Pedra de esgoto",
+      "category": "Pedra",
+      "pack": "Sewers",
+      "source": {
+        "tiles": [
+          "3261750"
+        ],
+        "end": "3261749",
+        "pillar": null
+      },
+      "tiles": [
+        {
+          "file": "trecho-1.webp",
+          "width": 609,
+          "height": 92,
+          "pad": 2
+        }
+      ],
+      "end": {
+        "file": "ponta.webp",
+        "width": 84,
+        "height": 95
+      },
+      "pillar": null,
+      "thumbnail": "miniatura.webp"
+    },
+    {
+      "id": "esgoto-arenito",
+      "label": "Arenito de esgoto",
+      "category": "Pedra",
+      "pack": "Sewers",
+      "source": {
+        "tiles": [
+          "3254128"
+        ],
+        "end": "9425212",
+        "pillar": null
+      },
+      "tiles": [
+        {
+          "file": "trecho-1.webp",
+          "width": 610,
+          "height": 92,
+          "pad": 2
+        }
+      ],
+      "end": {
+        "file": "ponta.webp",
+        "width": 34,
+        "height": 85
+      },
+      "pillar": null,
+      "thumbnail": "miniatura.webp"
+    },
+    {
+      "id": "prisao",
+      "label": "Muro de prisão",
+      "category": "Pedra",
+      "pack": "Prison",
+      "source": {
+        "tiles": [
+          "3356458"
+        ],
+        "end": "3356457",
+        "pillar": null
+      },
+      "tiles": [
+        {
+          "file": "trecho-1.webp",
+          "width": 575,
+          "height": 58,
+          "pad": 2
+        }
+      ],
+      "end": {
+        "file": "ponta.webp",
+        "width": 26,
+        "height": 64
+      },
+      "pillar": null,
+      "thumbnail": "miniatura.webp"
+    },
+    {
+      "id": "enxaimel",
+      "label": "Enxaimel",
+      "category": "Madeira",
+      "pack": "Home",
+      "source": {
+        "tiles": [
+          "1781989"
+        ],
+        "end": "9522571",
+        "pillar": "1827536"
+      },
+      "tiles": [
+        {
+          "file": "trecho-1.webp",
+          "width": 615,
+          "height": 136,
+          "pad": 2
+        }
+      ],
+      "end": {
+        "file": "ponta.webp",
+        "width": 48,
+        "height": 134
+      },
+      "pillar": {
+        "file": "pilar.webp",
+        "width": 127,
+        "height": 142
+      },
+      "thumbnail": "miniatura.webp"
+    },
+    {
+      "id": "madeira",
+      "label": "Madeira",
+      "category": "Madeira",
+      "pack": "Core",
+      "source": {
+        "tiles": [
+          "1782102"
+        ],
+        "end": null,
+        "pillar": "1782100"
+      },
+      "tiles": [
+        {
+          "file": "trecho-1.webp",
+          "width": 611,
+          "height": 60,
+          "pad": 2
+        }
+      ],
+      "end": null,
+      "pillar": {
+        "file": "pilar.webp",
+        "width": 67,
+        "height": 60
+      },
+      "thumbnail": "miniatura.webp"
+    },
+    {
+      "id": "tabuas",
+      "label": "Tábuas",
+      "category": "Madeira",
+      "pack": "Home",
+      "source": {
+        "tiles": [
+          "1782099",
+          "4706292"
+        ],
+        "end": "1782101",
+        "pillar": null
+      },
+      "tiles": [
+        {
+          "file": "trecho-1.webp",
+          "width": 594,
+          "height": 56,
+          "pad": 2
+        },
+        {
+          "file": "trecho-2.webp",
+          "width": 968,
+          "height": 52,
+          "pad": 2
+        }
+      ],
+      "end": {
+        "file": "ponta.webp",
+        "width": 55,
+        "height": 65
+      },
+      "pillar": null,
+      "thumbnail": "miniatura.webp"
+    },
+    {
+      "id": "madeira-nevada",
+      "label": "Madeira com neve",
+      "category": "Madeira",
+      "pack": "Winter",
+      "source": {
+        "tiles": [
+          "1782131"
+        ],
+        "end": "1782132",
+        "pillar": "752460"
+      },
+      "tiles": [
+        {
+          "file": "trecho-1.webp",
+          "width": 598,
+          "height": 56,
+          "pad": 2
+        }
+      ],
+      "end": {
+        "file": "ponta.webp",
+        "width": 67,
+        "height": 59
+      },
+      "pillar": {
+        "file": "pilar.webp",
+        "width": 67,
+        "height": 60
+      },
+      "thumbnail": "miniatura.webp"
+    },
+    {
+      "id": "cabana-de-madeira",
+      "label": "Cabana de madeira",
+      "category": "Madeira",
+      "pack": "Jungle Village",
+      "source": {
+        "tiles": [
+          "3249744"
+        ],
+        "end": "9515042",
+        "pillar": "6457164"
+      },
+      "tiles": [
+        {
+          "file": "trecho-1.webp",
+          "width": 590,
+          "height": 91,
+          "pad": 2
+        }
+      ],
+      "end": {
+        "file": "ponta.webp",
+        "width": 13,
+        "height": 86
+      },
+      "pillar": {
+        "file": "pilar.webp",
+        "width": 93,
+        "height": 99
+      },
+      "thumbnail": "miniatura.webp"
+    },
+    {
+      "id": "madeira-viva",
+      "label": "Madeira viva",
+      "category": "Madeira",
+      "pack": "Elves",
+      "source": {
+        "tiles": [
+          "3250357"
+        ],
+        "end": "9483354",
+        "pillar": null
+      },
+      "tiles": [
+        {
+          "file": "trecho-1.webp",
+          "width": 657,
+          "height": 135,
+          "pad": 2
+        }
+      ],
+      "end": {
+        "file": "ponta.webp",
+        "width": 119,
+        "height": 119
+      },
+      "pillar": null,
+      "thumbnail": "miniatura.webp"
+    },
+    {
+      "id": "parede-de-navio",
+      "label": "Parede de navio",
+      "category": "Madeira",
+      "pack": "Sailing Ships",
+      "source": {
+        "tiles": [
+          "1782134"
+        ],
+        "end": "3232213",
+        "pillar": null
+      },
+      "tiles": [
+        {
+          "file": "trecho-1.webp",
+          "width": 863,
+          "height": 52,
+          "pad": 2
+        }
+      ],
+      "end": {
+        "file": "ponta.webp",
+        "width": 53,
+        "height": 48
+      },
+      "pillar": null,
+      "thumbnail": "miniatura.webp"
+    },
+    {
+      "id": "madeira-oriental",
+      "label": "Madeira oriental",
+      "category": "Madeira",
+      "pack": "Eastern Home",
+      "source": {
+        "tiles": [
+          "5867447"
+        ],
+        "end": "5867449",
+        "pillar": "5910769"
+      },
+      "tiles": [
+        {
+          "file": "trecho-1.webp",
+          "width": 543,
+          "height": 47,
+          "pad": 2
+        }
+      ],
+      "end": {
+        "file": "ponta.webp",
+        "width": 15,
+        "height": 42
+      },
+      "pillar": {
+        "file": "pilar.webp",
+        "width": 57,
+        "height": 57
+      },
+      "thumbnail": "miniatura.webp"
+    },
+    {
+      "id": "painel-entalhado",
+      "label": "Painel entalhado",
+      "category": "Madeira",
+      "pack": "Gothic Quarters",
+      "source": {
+        "tiles": [
+          "3242884",
+          "3242885"
+        ],
+        "end": "9522832",
+        "pillar": "1041924"
+      },
+      "tiles": [
+        {
+          "file": "trecho-1.webp",
+          "width": 591,
+          "height": 57,
+          "pad": 2
+        },
+        {
+          "file": "trecho-2.webp",
+          "width": 556,
+          "height": 57,
+          "pad": 2
+        }
+      ],
+      "end": {
+        "file": "ponta.webp",
+        "width": 18,
+        "height": 59
+      },
+      "pillar": {
+        "file": "pilar.webp",
+        "width": 98,
+        "height": 99
+      },
+      "thumbnail": "miniatura.webp"
+    },
+    {
+      "id": "painel-dourado",
+      "label": "Painel dourado",
+      "category": "Madeira",
+      "pack": "Eastern Castle",
+      "source": {
+        "tiles": [
+          "1735190"
+        ],
+        "end": "1827431",
+        "pillar": "5910558"
+      },
+      "tiles": [
+        {
+          "file": "trecho-1.webp",
+          "width": 624,
+          "height": 87,
+          "pad": 2
+        }
+      ],
+      "end": {
+        "file": "ponta.webp",
+        "width": 8,
+        "height": 82
+      },
+      "pillar": {
+        "file": "pilar.webp",
+        "width": 80,
+        "height": 83
+      },
+      "thumbnail": "miniatura.webp"
+    },
+    {
+      "id": "palicada",
+      "label": "Paliçada",
+      "category": "Cercas",
+      "pack": "Castle",
+      "source": {
+        "tiles": [
+          "1782207"
+        ],
+        "end": "1782206",
+        "pillar": null
+      },
+      "tiles": [
+        {
+          "file": "trecho-1.webp",
+          "width": 648,
+          "height": 80,
+          "pad": 2
+        }
+      ],
+      "end": {
+        "file": "ponta.webp",
+        "width": 55,
+        "height": 53
+      },
+      "pillar": null,
+      "thumbnail": "miniatura.webp"
+    },
+    {
+      "id": "palicada-congelada",
+      "label": "Paliçada congelada",
+      "category": "Cercas",
+      "pack": "Winter",
+      "source": {
+        "tiles": [
+          "1782126"
+        ],
+        "end": "1782125",
+        "pillar": null
+      },
+      "tiles": [
+        {
+          "file": "trecho-1.webp",
+          "width": 645,
+          "height": 80,
+          "pad": 2
+        }
+      ],
+      "end": {
+        "file": "ponta.webp",
+        "width": 53,
+        "height": 60
+      },
+      "pillar": null,
+      "thumbnail": "miniatura.webp"
+    },
+    {
+      "id": "cerca-de-madeira",
+      "label": "Cerca de madeira",
+      "category": "Cercas",
+      "pack": "Farm",
+      "source": {
+        "tiles": [
+          "1781996"
+        ],
+        "end": null,
+        "pillar": "804072"
+      },
+      "tiles": [
+        {
+          "file": "trecho-1.webp",
+          "width": 676,
+          "height": 76,
+          "pad": 2
+        }
+      ],
+      "end": null,
+      "pillar": {
+        "file": "pilar.webp",
+        "width": 73,
+        "height": 80
+      },
+      "thumbnail": "miniatura.webp"
+    },
+    {
+      "id": "cerca-de-corda",
+      "label": "Cerca de corda",
+      "category": "Cercas",
+      "pack": "Farm",
+      "source": {
+        "tiles": [
+          "1781987"
+        ],
+        "end": "1781986",
+        "pillar": null
+      },
+      "tiles": [
+        {
+          "file": "trecho-1.webp",
+          "width": 682,
+          "height": 54,
+          "pad": 2
+        }
+      ],
+      "end": {
+        "file": "ponta.webp",
+        "width": 43,
+        "height": 46
+      },
+      "pillar": null,
+      "thumbnail": "miniatura.webp"
+    },
+    {
+      "id": "cerca-de-estacas",
+      "label": "Cerca de estacas",
+      "category": "Cercas",
+      "pack": "Home",
+      "source": {
+        "tiles": [
+          "1781985"
+        ],
+        "end": "1781984",
+        "pillar": null
+      },
+      "tiles": [
+        {
+          "file": "trecho-1.webp",
+          "width": 611,
+          "height": 67,
+          "pad": 2
+        }
+      ],
+      "end": {
+        "file": "ponta.webp",
+        "width": 90,
+        "height": 66
+      },
+      "pillar": null,
+      "thumbnail": "miniatura.webp"
+    },
+    {
+      "id": "gradil-de-ferro",
+      "label": "Gradil de ferro",
+      "category": "Cercas",
+      "pack": "Graveyard",
+      "source": {
+        "tiles": [
+          "1782060"
+        ],
+        "end": "1782057",
+        "pillar": "665114"
+      },
+      "tiles": [
+        {
+          "file": "trecho-1.webp",
+          "width": 479,
+          "height": 71,
+          "pad": 2
+        }
+      ],
+      "end": {
+        "file": "ponta.webp",
+        "width": 79,
+        "height": 67
+      },
+      "pillar": {
+        "file": "pilar.webp",
+        "width": 74,
+        "height": 73
+      },
+      "thumbnail": "miniatura.webp"
+    },
+    {
+      "id": "grades",
+      "label": "Grades",
+      "category": "Cercas",
+      "pack": "Prison",
+      "source": {
+        "tiles": [
+          "3243226"
+        ],
+        "end": "3243225",
+        "pillar": null
+      },
+      "tiles": [
+        {
+          "file": "trecho-1.webp",
+          "width": 478,
+          "height": 58,
+          "pad": 2
+        }
+      ],
+      "end": {
+        "file": "ponta.webp",
+        "width": 29,
+        "height": 66
+      },
+      "pillar": null,
+      "thumbnail": "miniatura.webp"
+    },
+    {
+      "id": "muro-de-fazenda",
+      "label": "Muro de fazenda",
+      "category": "Rústico",
+      "pack": "Farm",
+      "source": {
+        "tiles": [
+          "11335174"
+        ],
+        "end": "9522566",
+        "pillar": "839767"
+      },
+      "tiles": [
+        {
+          "file": "trecho-1.webp",
+          "width": 626,
+          "height": 116,
+          "pad": 2
+        }
+      ],
+      "end": {
+        "file": "ponta.webp",
+        "width": 49,
+        "height": 115
+      },
+      "pillar": {
+        "file": "pilar.webp",
+        "width": 111,
+        "height": 147
+      },
+      "thumbnail": "miniatura.webp"
+    },
+    {
+      "id": "barro",
+      "label": "Barro e toras",
+      "category": "Rústico",
+      "pack": "Jungle Village",
+      "source": {
+        "tiles": [
+          "6457183"
+        ],
+        "end": "9515043",
+        "pillar": "6457146"
+      },
+      "tiles": [
+        {
+          "file": "trecho-1.webp",
+          "width": 575,
+          "height": 105,
+          "pad": 2
+        }
+      ],
+      "end": {
+        "file": "ponta.webp",
+        "width": 94,
+        "height": 102
+      },
+      "pillar": {
+        "file": "pilar.webp",
+        "width": 106,
+        "height": 110
+      },
+      "thumbnail": "miniatura.webp"
+    },
+    {
+      "id": "palha",
+      "label": "Palha",
+      "category": "Rústico",
+      "pack": "Eastern Village",
+      "source": {
+        "tiles": [
+          "5872017"
+        ],
+        "end": "4721458",
+        "pillar": "5908425"
+      },
+      "tiles": [
+        {
+          "file": "trecho-1.webp",
+          "width": 582,
+          "height": 95,
+          "pad": 2
+        }
+      ],
+      "end": {
+        "file": "ponta.webp",
+        "width": 50,
+        "height": 91
+      },
+      "pillar": {
+        "file": "pilar.webp",
+        "width": 97,
+        "height": 73
+      },
+      "thumbnail": "miniatura.webp"
+    },
+    {
+      "id": "fortaleza-do-deserto",
+      "label": "Fortaleza do deserto",
+      "category": "Deserto",
+      "pack": "Desert",
+      "source": {
+        "tiles": [
+          "1781909"
+        ],
+        "end": "1781908",
+        "pillar": null
+      },
+      "tiles": [
+        {
+          "file": "trecho-1.webp",
+          "width": 836,
+          "height": 122,
+          "pad": 2
+        }
+      ],
+      "end": {
+        "file": "ponta.webp",
+        "width": 139,
+        "height": 114
+      },
+      "pillar": null,
+      "thumbnail": "miniatura.webp"
+    },
+    {
+      "id": "calcario",
+      "label": "Calcário",
+      "category": "Deserto",
+      "pack": "Desert",
+      "source": {
+        "tiles": [
+          "1781951"
+        ],
+        "end": "1781950",
+        "pillar": "696389"
+      },
+      "tiles": [
+        {
+          "file": "trecho-1.webp",
+          "width": 603,
+          "height": 108,
+          "pad": 2
+        }
+      ],
+      "end": {
+        "file": "ponta.webp",
+        "width": 119,
+        "height": 136
+      },
+      "pillar": {
+        "file": "pilar.webp",
+        "width": 119,
+        "height": 136
+      },
+      "thumbnail": "miniatura.webp"
+    },
+    {
+      "id": "calcario-e-madeira",
+      "label": "Calcário e madeira",
+      "category": "Deserto",
+      "pack": "Desert",
+      "source": {
+        "tiles": [
+          "1781934"
+        ],
+        "end": "9662615",
+        "pillar": "696372"
+      },
+      "tiles": [
+        {
+          "file": "trecho-1.webp",
+          "width": 603,
+          "height": 149,
+          "pad": 2
+        }
+      ],
+      "end": {
+        "file": "ponta.webp",
+        "width": 70,
+        "height": 133
+      },
+      "pillar": {
+        "file": "pilar.webp",
+        "width": 159,
+        "height": 186
+      },
+      "thumbnail": "miniatura.webp"
+    },
+    {
+      "id": "rocha-do-deserto",
+      "label": "Rocha do deserto",
+      "category": "Deserto",
+      "pack": "Desert",
+      "source": {
+        "tiles": [
+          "1781947"
+        ],
+        "end": "1781946",
+        "pillar": "742669"
+      },
+      "tiles": [
+        {
+          "file": "trecho-1.webp",
+          "width": 617,
+          "height": 117,
+          "pad": 2
+        }
+      ],
+      "end": {
+        "file": "ponta.webp",
+        "width": 118,
+        "height": 139
+      },
+      "pillar": {
+        "file": "pilar.webp",
+        "width": 118,
+        "height": 139
+      },
+      "thumbnail": "miniatura.webp"
+    },
+    {
+      "id": "ameias",
+      "label": "Ameias",
+      "category": "Deserto",
+      "pack": "Desert",
+      "source": {
+        "tiles": [
+          "1781913"
+        ],
+        "end": "1781912",
+        "pillar": null
+      },
+      "tiles": [
+        {
+          "file": "trecho-1.webp",
+          "width": 825,
+          "height": 117,
+          "pad": 2
+        }
+      ],
+      "end": {
+        "file": "ponta.webp",
+        "width": 93,
+        "height": 112
+      },
+      "pillar": null,
+      "thumbnail": "miniatura.webp"
+    },
+    {
+      "id": "arenito",
+      "label": "Arenito",
+      "category": "Deserto",
+      "pack": "Desert",
+      "source": {
+        "tiles": [
+          "1781930"
+        ],
+        "end": "9662637",
+        "pillar": "635647"
+      },
+      "tiles": [
+        {
+          "file": "trecho-1.webp",
+          "width": 713,
+          "height": 122,
+          "pad": 2
+        }
+      ],
+      "end": {
+        "file": "ponta.webp",
+        "width": 38,
+        "height": 124
+      },
+      "pillar": {
+        "file": "pilar.webp",
+        "width": 110,
+        "height": 161
+      },
+      "thumbnail": "miniatura.webp"
+    },
+    {
+      "id": "hieroglifos",
+      "label": "Hieróglifos",
+      "category": "Deserto",
+      "pack": "Desert",
+      "source": {
+        "tiles": [
+          "1781949"
+        ],
+        "end": null,
+        "pillar": "1781948"
+      },
+      "tiles": [
+        {
+          "file": "trecho-1.webp",
+          "width": 727,
+          "height": 171,
+          "pad": 2
+        }
+      ],
+      "end": null,
+      "pillar": {
+        "file": "pilar.webp",
+        "width": 181,
+        "height": 185
+      },
+      "thumbnail": "miniatura.webp"
+    },
+    {
+      "id": "marmore-branco",
+      "label": "Mármore branco",
+      "category": "Templo",
+      "pack": "Temple",
+      "source": {
+        "tiles": [
+          "1782190"
+        ],
+        "end": "9494552",
+        "pillar": "642918"
+      },
+      "tiles": [
+        {
+          "file": "trecho-1.webp",
+          "width": 615,
+          "height": 132,
+          "pad": 2
+        }
+      ],
+      "end": {
+        "file": "ponta.webp",
+        "width": 32,
+        "height": 127
+      },
+      "pillar": {
+        "file": "pilar.webp",
+        "width": 139,
+        "height": 160
+      },
+      "thumbnail": "miniatura.webp"
+    },
+    {
+      "id": "marmore-rebocado",
+      "label": "Mármore rebocado",
+      "category": "Templo",
+      "pack": "Temple",
+      "source": {
+        "tiles": [
+          "1782189"
+        ],
+        "end": "9494545",
+        "pillar": null
+      },
+      "tiles": [
+        {
+          "file": "trecho-1.webp",
+          "width": 587,
+          "height": 98,
+          "pad": 2
+        }
+      ],
+      "end": {
+        "file": "ponta.webp",
+        "width": 25,
+        "height": 91
+      },
+      "pillar": null,
+      "thumbnail": "miniatura.webp"
+    },
+    {
+      "id": "marmore-escuro",
+      "label": "Mármore escuro",
+      "category": "Templo",
+      "pack": "Temple",
+      "source": {
+        "tiles": [
+          "1782170"
+        ],
+        "end": null,
+        "pillar": "642989"
+      },
+      "tiles": [
+        {
+          "file": "trecho-1.webp",
+          "width": 560,
+          "height": 159,
+          "pad": 2
+        }
+      ],
+      "end": null,
+      "pillar": {
+        "file": "pilar.webp",
+        "width": 153,
+        "height": 160
+      },
+      "thumbnail": "miniatura.webp"
+    },
+    {
+      "id": "bronze-runico",
+      "label": "Bronze rúnico",
+      "category": "Templo",
+      "pack": "Temple",
+      "source": {
+        "tiles": [
+          "1782179"
+        ],
+        "end": "9494560",
+        "pillar": "6604134"
+      },
+      "tiles": [
+        {
+          "file": "trecho-1.webp",
+          "width": 615,
+          "height": 131,
+          "pad": 2
+        }
+      ],
+      "end": {
+        "file": "ponta.webp",
+        "width": 23,
+        "height": 123
+      },
+      "pillar": {
+        "file": "pilar.webp",
+        "width": 146,
+        "height": 146
+      },
+      "thumbnail": "miniatura.webp"
+    },
+    {
+      "id": "templo-oriental",
+      "label": "Templo oriental",
+      "category": "Templo",
+      "pack": "Eastern Castle",
+      "source": {
+        "tiles": [
+          "4483729"
+        ],
+        "end": "4721452",
+        "pillar": "5909625"
+      },
+      "tiles": [
+        {
+          "file": "trecho-1.webp",
+          "width": 650,
+          "height": 123,
+          "pad": 2
+        }
+      ],
+      "end": {
+        "file": "ponta.webp",
+        "width": 31,
+        "height": 119
+      },
+      "pillar": {
+        "file": "pilar.webp",
+        "width": 125,
+        "height": 124
+      },
+      "thumbnail": "miniatura.webp"
+    },
+    {
+      "id": "tijolo-gotico",
+      "label": "Tijolo gótico",
+      "category": "Sombrio",
+      "pack": "Gothic Castle",
+      "source": {
+        "tiles": [
+          "1782011"
+        ],
+        "end": "9522753",
+        "pillar": "1028858"
+      },
+      "tiles": [
+        {
+          "file": "trecho-1.webp",
+          "width": 612,
+          "height": 120,
+          "pad": 2
+        }
+      ],
+      "end": {
+        "file": "ponta.webp",
+        "width": 40,
+        "height": 116
+      },
+      "pillar": {
+        "file": "pilar.webp",
+        "width": 133,
+        "height": 133
+      },
+      "thumbnail": "miniatura.webp"
+    },
+    {
+      "id": "gotico-esculpido",
+      "label": "Gótico esculpido",
+      "category": "Sombrio",
+      "pack": "Gothic Castle",
+      "source": {
+        "tiles": [
+          "1782013"
+        ],
+        "end": "9522766",
+        "pillar": "1028792"
+      },
+      "tiles": [
+        {
+          "file": "trecho-1.webp",
+          "width": 524,
+          "height": 137,
+          "pad": 2
+        }
+      ],
+      "end": {
+        "file": "ponta.webp",
+        "width": 48,
+        "height": 135
+      },
+      "pillar": {
+        "file": "pilar.webp",
+        "width": 129,
+        "height": 128
+      },
+      "thumbnail": "miniatura.webp"
+    },
+    {
+      "id": "cripta",
+      "label": "Cripta",
+      "category": "Sombrio",
+      "pack": "Graveyard",
+      "source": {
+        "tiles": [
+          "1782067"
+        ],
+        "end": "9522796",
+        "pillar": "1003198"
+      },
+      "tiles": [
+        {
+          "file": "trecho-1.webp",
+          "width": 631,
+          "height": 100,
+          "pad": 2
+        }
+      ],
+      "end": {
+        "file": "ponta.webp",
+        "width": 31,
+        "height": 97
+      },
+      "pillar": {
+        "file": "pilar.webp",
+        "width": 107,
+        "height": 117
+      },
+      "thumbnail": "miniatura.webp"
+    },
+    {
+      "id": "catacumba",
+      "label": "Catacumba",
+      "category": "Sombrio",
+      "pack": "Graveyard",
+      "source": {
+        "tiles": [
+          "1782069"
+        ],
+        "end": "9522791",
+        "pillar": "1041980"
+      },
+      "tiles": [
+        {
+          "file": "trecho-1.webp",
+          "width": 1201,
+          "height": 148,
+          "pad": 2
+        }
+      ],
+      "end": {
+        "file": "ponta.webp",
+        "width": 65,
+        "height": 146
+      },
+      "pillar": {
+        "file": "pilar.webp",
+        "width": 137,
+        "height": 145
+      },
+      "thumbnail": "miniatura.webp"
+    },
+    {
+      "id": "pedra-e-metal",
+      "label": "Pedra e metal",
+      "category": "Sombrio",
+      "pack": "Hell Castle",
+      "source": {
+        "tiles": [
+          "1782044"
+        ],
+        "end": "1782042",
+        "pillar": "12715679"
+      },
+      "tiles": [
+        {
+          "file": "trecho-1.webp",
+          "width": 564,
+          "height": 84,
+          "pad": 2
+        }
+      ],
+      "end": {
+        "file": "ponta.webp",
+        "width": 78,
+        "height": 84
+      },
+      "pillar": {
+        "file": "pilar.webp",
+        "width": 118,
+        "height": 116
+      },
+      "thumbnail": "miniatura.webp"
+    },
+    {
+      "id": "gelo",
+      "label": "Gelo",
+      "category": "Gelo e metal",
+      "pack": "Winter",
+      "source": {
+        "tiles": [
+          "1782124"
+        ],
+        "end": "10317955",
+        "pillar": "633670"
+      },
+      "tiles": [
+        {
+          "file": "trecho-1.webp",
+          "width": 624,
+          "height": 79,
+          "pad": 2
+        }
+      ],
+      "end": {
+        "file": "ponta.webp",
+        "width": 7,
+        "height": 73
+      },
+      "pillar": {
+        "file": "pilar.webp",
+        "width": 99,
+        "height": 101
+      },
+      "thumbnail": "miniatura.webp"
+    },
+    {
+      "id": "caverna-de-gelo",
+      "label": "Caverna de gelo",
+      "category": "Gelo e metal",
+      "pack": "Winter",
+      "source": {
+        "tiles": [
+          "3355860"
+        ],
+        "end": "3355862",
+        "pillar": null
+      },
+      "tiles": [
+        {
+          "file": "trecho-1.webp",
+          "width": 1156,
+          "height": 228,
+          "pad": 2
+        }
+      ],
+      "end": {
+        "file": "ponta.webp",
+        "width": 149,
+        "height": 234
+      },
+      "pillar": null,
+      "thumbnail": "miniatura.webp"
+    },
+    {
+      "id": "metal",
+      "label": "Metal",
+      "category": "Gelo e metal",
+      "pack": "Steampunk",
+      "source": {
+        "tiles": [
+          "1782204"
+        ],
+        "end": "10317961",
+        "pillar": "665493"
+      },
+      "tiles": [
+        {
+          "file": "trecho-1.webp",
+          "width": 605,
+          "height": 71,
+          "pad": 2
+        }
+      ],
+      "end": {
+        "file": "ponta.webp",
+        "width": 7,
+        "height": 67
+      },
+      "pillar": {
+        "file": "pilar.webp",
+        "width": 97,
+        "height": 104
+      },
+      "thumbnail": "miniatura.webp"
+    }
+  ]
+}
